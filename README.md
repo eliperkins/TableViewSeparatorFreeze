@@ -1,6 +1,8 @@
 TableViewSeparatorFreeze
 =====
 
+Filed as [`rdar://28800764`](https://openradar.appspot.com/28800764).
+
 This project reproduces an issue with setting a custom inset inside of
 `layoutSubviews` on the table view cell subclass.
 
